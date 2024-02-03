@@ -61,6 +61,10 @@
     transform: rotate(180deg);
   }
   
+  .plusButton:active>.plusIcon {
+    fill: black;
+    transform: rotate(180deg);
+  }
   .plusButton:focus-visible>.plusIcon {
     fill: black;
     transform: rotate(180deg);
